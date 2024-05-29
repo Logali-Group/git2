@@ -7,6 +7,7 @@ sap.ui.define(
   
       return BaseController.extend("lgl.git2.controller.App", {
         onInit: function() {
+          //another change
         }
       });
     }

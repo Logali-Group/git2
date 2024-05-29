@@ -9,7 +9,7 @@ sap.ui.define([
 
         return Controller.extend("lgl.git2.controller.View1", {
             onInit: function () {
-
+               // another change
             }
         });
     });
